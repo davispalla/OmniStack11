@@ -3,9 +3,6 @@
 </h1>
 
 <h2 align="center">
-
-  Semana OmniStack
-  <br/>
   🚀 Semana Omnistack 11.0
 </h2>
 
@@ -58,6 +55,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com ❤️ by **Rocketseat** 
-.. E escrito por mim! 
+.. e reescrito por mim! 
 
 
