@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" width="200px" />
+    Semana OmniStack
 </h1>
 
 <h2 align="center">
 
-  <img alt="Semana OmniStack" width="200px" />
+  Semana OmniStack
   <br/>
   🚀 Semana Omnistack 11.0
 </h2>
