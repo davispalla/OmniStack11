@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".github/logo.svg" width="200px" />
+    <img alt="Semana OmniStack" width="200px" />
 </h1>
 
 <h2 align="center">
 
-  <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
+  <img alt="Semana OmniStack" width="200px" />
   <br/>
   🚀 Semana Omnistack 11.0
 </h2>
@@ -12,7 +12,6 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
