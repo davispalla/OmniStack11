@@ -26,6 +26,4 @@ app.use(routes);
  * por exemplo quero trazer o usuario com id 1: na rota get posso acrescentar ->users/1
  * Request Body: Ele é o corpo da requisicao utilizado para criar ou alterar recursos
  */
-
-
 app.listen(3333);
